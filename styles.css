@@ -1,0 +1,81 @@
+body {
+    background-image: url("http://1-background.com/images/NEON/neon-stars-repeating-background-fill.jpg");
+}
+
+a:link {
+    color: white;
+    text-decoration:underline;
+}
+
+a:hover {
+    color: #34cff0;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration:underline;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 12px;
+    text-align: right;
+    font-family: Arial;
+}
+
+
+.title {
+    font-size: 30px;
+    background-color: gold;
+    text-align: center;
+    color: #34cff0;
+}
+
+.award {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+ul {
+    display: inline;
+}
+
+.roommates {
+    font-family: 'Gaegu', cursive;
+    font-weight: bold;
+}
+
+.parents {
+    font-family: 'Chela One', cursive;
+}
+
+.dr {
+    font-family: 'Noto Serif', serif;
+}
+
+.pm {
+    font-family: 'Fjalla One', sans-serif;
+}
